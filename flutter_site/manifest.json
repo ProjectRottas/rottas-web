@@ -1,7 +1,7 @@
 {
     "name": "Rottas: Se encontre na UFC",
     "short_name": "rottas",
-    "start_url": ".",
+    "start_url": "/flutter_site/",
     "display": "standalone",
     "background_color": "#f7f7f7",
     "theme_color": "#5386E4",
